@@ -5,8 +5,9 @@ Aplikasi ini bertujuan untuk memberikan pengguna pengalaman interaktif saat meng
 #
 ![image](https://github.com/ExRonin/SpacePraf/assets/44882861/032200e2-6504-4f85-9ff6-363580fbba50)
 #
-![image](https://github.com/ExRonin/SpacePraf/assets/44882861/e34bbe5e-ff95-4929-8f5e-9c12557bf3f8)
+![image](https://github.com/ExRonin/SpacePraf/assets/44882861/9688ae26-e7b5-4358-9dda-a0e6b796e16a)
 #
-![image](https://github.com/ExRonin/SpacePraf/assets/44882861/35d8ce09-f163-4ce0-a1cd-6da56ec33890)
+![image](https://github.com/ExRonin/SpacePraf/assets/44882861/d43cb8c3-7e8b-496a-9bab-0b29846617d4)
 #
-![image](https://github.com/ExRonin/SpacePraf/assets/44882861/742e4ba6-bd51-43f9-9b6c-905a0fb3a9d8)
+![image](https://github.com/ExRonin/SpacePraf/assets/44882861/c8a72f3f-8d99-43cb-b1a6-5f1f13aee9ee)
+
